@@ -1,6 +1,6 @@
 from televisores.tv import TV
 from televisores.marca import Marca
-from televisores.control import Control
+from televisores.marca import Control
 
 if __name__ == "__main__":
     marca1 = Marca("Semsung")
