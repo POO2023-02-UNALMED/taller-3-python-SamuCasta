@@ -1,6 +1,6 @@
 from televisores.tv import TV
 from televisores.marca import Marca
-from televisores.marca import Control
+from televisores.control import Control
 
 
 def testOnOffTV():
